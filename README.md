@@ -12,7 +12,3 @@ yarn dev
 ```
 
 The website will be available at [http://localhost:3000](http://localhost:3000).
-
-After you make your changes, please send me a pull request!
-
-🤓
